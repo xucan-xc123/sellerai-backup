@@ -1,0 +1,6 @@
+﻿
+# Sensitive files - do not commit
+20260729/backend/.env
+20260729/MEMORY.md
+20260729/deploy/VERCEL部署规范_2026-07-16.md
+20260729/reports/密钥安全审计-2026-07-22.md
