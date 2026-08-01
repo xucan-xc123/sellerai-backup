@@ -1,6 +1,54 @@
-﻿
-# Sensitive files - do not commit
+﻿# Sensitive files - do not commit
 20260729/backend/.env
 20260729/MEMORY.md
 20260729/deploy/VERCEL部署规范_2026-07-16.md
 20260729/reports/密钥安全审计-2026-07-22.md
+
+# 20260726
+20260726/backend/.env
+20260726/backend/check_balance.py
+
+# 20260727
+20260727/backend/.env
+20260727/backend/check_balance.py
+20260727/MEMORY.md
+20260727/reports/密钥安全审计-2026-07-22.md
+20260727/deploy/环境变量配置.md
+
+# 20260728
+20260728/backend/.env
+20260728/backend/check_balance.py
+20260728/MEMORY.md
+20260728/reports/密钥安全审计-2026-07-22.md
+20260728/deploy/环境变量配置.md
+
+# 20260730
+20260730/backend/.env
+20260730/backend/check_balance.py
+20260730/MEMORY.md
+20260730/reports/密钥安全审计-2026-07-22.md
+20260730/deploy/环境变量配置.md
+
+# 20260731
+20260731/backend/.env
+20260731/backend/check_balance.py
+20260731/MEMORY.md
+20260731/reports/密钥安全审计-2026-07-22.md
+20260731/deploy/环境变量配置.md
+
+# 20260801
+20260801/backend/.env
+20260801/backend/check_balance.py
+20260801/MEMORY.md
+20260801/reports/密钥安全审计-2026-07-22.md
+20260801/deploy/环境变量配置.md
+
+# 20260726 VERCEL token
+20260726/deploy/VERCEL部署规范_2026-07-16.md
+
+# VERCEL token files - all dates
+20260727/deploy/VERCEL部署规范_2026-07-16.md
+20260728/deploy/VERCEL部署规范_2026-07-16.md
+20260730/deploy/VERCEL部署规范_2026-07-16.md
+20260731/deploy/VERCEL部署规范_2026-07-16.md
+20260801/deploy/VERCEL部署规范_2026-07-16.md
