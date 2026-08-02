@@ -52,3 +52,17 @@
 20260730/deploy/VERCEL部署规范_2026-07-16.md
 20260731/deploy/VERCEL部署规范_2026-07-16.md
 20260801/deploy/VERCEL部署规范_2026-07-16.md
+
+# 20260802
+20260802/backend/.env
+20260802/backend/check_balance.py
+20260802/MEMORY.md
+20260802/reports/瀵嗛挜瀹夊叏瀹¤-2026-07-22.md
+20260802/deploy/鐜鍙橀噺閰嶇疆.md
+20260802/deploy/VERCEL閮ㄧ讲瑙勮寖_2026-07-16.md
+
+# junk / temp dirs - never commit
+$null
+temp-repo
+temp-repo-
+tmp-push/
