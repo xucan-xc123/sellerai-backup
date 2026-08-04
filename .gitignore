@@ -66,3 +66,23 @@ $null
 temp-repo
 temp-repo-
 tmp-push/
+
+# 20260803
+20260803/backend/.env
+20260803/MEMORY.md
+20260803/backend/check_balance.py
+20260803/deploy/VERCEL部署规范_2026-07-16.md
+20260803/deploy/环境变量配置.md
+20260803/reports/密钥安全审计-2026-07-22.md
+
+# 20260804
+20260804/backend/.env
+20260804/MEMORY.md
+
+# 20260805
+20260805/backend/.env
+20260805/MEMORY.md
+20260805/backend/check_balance.py
+20260805/deploy/VERCEL部署规范_2026-07-16.md
+20260805/deploy/环境变量配置.md
+20260805/reports/密钥安全审计-2026-07-22.md
