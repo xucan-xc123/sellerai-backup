@@ -1,0 +1,10 @@
+{
+  "name": "sellerai-deploy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SellerAI 部署配置文档和辅助脚本",
+  "scripts": {},
+  "keywords": ["sellerai", "deploy", "vercel", "deepseek"],
+  "author": "",
+  "license": "UNLICENSED"
+}
