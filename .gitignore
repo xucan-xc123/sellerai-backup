@@ -86,3 +86,43 @@ tmp-push/
 20260805/deploy/VERCEL部署规范_2026-07-16.md
 20260805/deploy/环境变量配置.md
 20260805/reports/密钥安全审计-2026-07-22.md
+
+# 20260806
+20260806/backend/.env
+20260806/backend/check_balance.py
+20260806/MEMORY.md
+20260806/deploy/VERCEL部署规范_2026-07-16.md
+20260806/deploy/环境变量配置.md
+20260806/reports/密钥安全审计-2026-07-22.md
+
+# 20260807
+20260807/backend/.env
+20260807/backend/check_balance.py
+20260807/MEMORY.md
+20260807/deploy/VERCEL部署规范_2026-07-16.md
+20260807/deploy/环境变量配置.md
+20260807/reports/密钥安全审计-2026-07-22.md
+
+# 20260808
+20260808/backend/.env
+20260808/backend/check_balance.py
+20260808/MEMORY.md
+20260808/deploy/VERCEL部署规范_2026-07-16.md
+20260808/deploy/环境变量配置.md
+20260808/reports/密钥安全审计-2026-07-22.md
+
+# 20260809
+20260809/backend/.env
+20260809/backend/check_balance.py
+20260809/MEMORY.md
+20260809/deploy/VERCEL部署规范_2026-07-16.md
+20260809/deploy/环境变量配置.md
+20260809/reports/密钥安全审计-2026-07-22.md
+
+# Future dates - auto-exclude sensitive files (added 2026-08-09)
+*/backend/.env
+*/backend/check_balance.py
+*/MEMORY.md
+*/deploy/VERCEL部署规范_*.md
+*/deploy/环境变量配置.md
+*/reports/密钥安全审计-*.md
