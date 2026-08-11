@@ -126,3 +126,5 @@ tmp-push/
 */deploy/VERCEL部署规范_*.md
 */deploy/环境变量配置.md
 */reports/密钥安全审计-*.md
+push-result.txt
+_redact-rules.txt
